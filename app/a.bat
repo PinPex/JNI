@@ -1,0 +1,1 @@
+C:\Users\aleks\AndroidStudioProjects\android-ndk-r11c\ndk-build.cmd NDK_APPLICATION_MK=C:\Users\aleks\AndroidStudioProjects\JNI\app\src\main\jni\Application.mk NDK_PROJECT_PATH=C:\Users\aleks\AndroidStudioProjects\JNI\app\src\main APP_BUILD_SCRIPT=C:\Users\aleks\AndroidStudioProjects\JNI\app\src\main\jni\Android.mk
